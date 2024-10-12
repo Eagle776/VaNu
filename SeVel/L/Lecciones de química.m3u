@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1  group-title="Temporada 1",1
+http://nxt.plus:8080/series/karinajp/331042/197616.mkv
+#EXTINF:-1  group-title="Temporada 1",2
+http://nxt.plus:8080/series/karinajp/331042/197617.mkv
+#EXTINF:-1  group-title="Temporada 1",3
+http://nxt.plus:8080/series/karinajp/331042/197925.mkv
+#EXTINF:-1  group-title="Temporada 1",4
+http://nxt.plus:8080/series/karinajp/331042/199420.mkv
+#EXTINF:-1  group-title="Temporada 1",5
+http://nxt.plus:8080/series/karinajp/331042/200521.mkv
+#EXTINF:-1  group-title="Temporada 1",6
+http://nxt.plus:8080/series/karinajp/331042/200612.mkv
+#EXTINF:-1  group-title="Temporada 1",7
+http://nxt.plus:8080/series/karinajp/331042/201925.mkv
+#EXTINF:-1  group-title="Temporada 1",8
+http://nxt.plus:8080/series/karinajp/331042/203181.mkv
