@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1  group-title="Temporada 1",1
+http://nxt.plus:8080/series/karinajp/331042/210357.mkv
+#EXTINF:-1  group-title="Temporada 1",2
+http://nxt.plus:8080/series/karinajp/331042/210358.mkv
+#EXTINF:-1  group-title="Temporada 1",3
+http://nxt.plus:8080/series/karinajp/331042/210359.mkv
