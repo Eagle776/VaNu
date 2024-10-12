@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqsVbBttq84L1J2GMKTs6FbZIJI.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXBV7AelDxeEPaIhFrGn0Xd#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peiXOvM5ApS7zdy703tITMszTK7.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPWk7CbjikpOCNApaneKOJ3P#.mkv
+
