@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYsbiQ9ZrzZbvyCiMWWSrT9c7aT.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPWXMgEUIIJaP4h7uLJummla#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wR1TlPiY3GDJrXvtvLTJTL2JSpM.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXgyj47eE4mwPGGaAFtMtcd#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iO6sueXsRzyy8qB0m8mywyRedUZ.jpg" group-title="Temporada 1",3
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPVwlOZVL9UtrntbdD4a2mQC#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5qSdTSwHYt72GfH3v8eT5uYzBY.jpg" group-title="Temporada 1",4
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXq2eBEXkLcliwjDXRuHTo1#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35SwOvvKElHJcZBUdPvcqAWOLfV.jpg" group-title="Temporada 1",5
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPVuntQ-ckHK9RH0AKgfmBnE#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR0e3xobs0v1fA6GoKaUBc32R1Q.jpg" group-title="Temporada 1",6
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXQZ488FE7tW9o1AvOSm3aY#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QeswJIhPibnTtONkcENiaxsukR.jpg" group-title="Temporada 1",7
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXPCp_MoFWs098gBW9fygRG#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhgelRUQfB45tDTJC1TP8FI02EC.jpg" group-title="Temporada 1",8
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPVTiSh7NSr3d8pG4S8vDGIQ#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fGf5frLk04UAqekQhuhPAMSBpU.jpg" group-title="Temporada 1",9
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPWsZZprU1m3Etm3C9T556iR#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Obm1GKIqrBCb2L3YFeMOLysdeh.jpg" group-title="Temporada 1",10
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPUJjCUW6yRwgJJouwavoXIb#.mp4
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/fd9ce156fa81c4b97f58a75beb340c17.jpg" group-title="Temporada 2",1
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPWiyKhP9pYe_AxqnmQ-v7ir#.mp4
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/a7e3f9863786757ceeceefe643e72478.jpg" group-title="Temporada 2",2
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPUdVzkhBDxa-RZQbzm7BsqF#.mp4
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/41a1ce410bf652c3d53dbd4de71f3777.jpg" group-title="Temporada 2",3
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPVnrNtbi-lnBw_GyVaobT_G#.mp4
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/17178a4ae25978241bb2e07e944d590f.jpg" group-title="Temporada 2",4
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXbls3OK2dbcLlaYFPQKBqV#.mp4
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/2e0cbf8d7c53edb458d19f51a26cb777.jpg" group-title="Temporada 2",5
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPX_EBD9eQ7adOqbUSCWnq88#.mp4
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/fb986c931e038bfdce9d7aea06e3cbfe.jpg" group-title="Temporada 2",6
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXZaE1fj9shuFwJzw5feLcG#.mp4
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/f83770677e102cc582b0d93079cbd7a0.jpg" group-title="Temporada 2",7
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPVX9as_O5lSLZgNoZU7Huhu#.mp4
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/de70e561e5a8a726a83c02229988fd5d.jpg" group-title="Temporada 2",8
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPWoljrzA7kLHanGFtZ-BLhT#.mp4
+
