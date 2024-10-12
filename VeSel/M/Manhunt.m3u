@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iurVkA7zm97oLfjQz9RkTujVIU.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPWJm9xvyR9aTiN1m6lnMuJo#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Y5f0rAEQcKexQTQpJhuTeVwOnw.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPUOf-68vT8X5y9rziAhs6IN#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNlaOzZrE7xFmOugrPS1KGXxvCu.jpg" group-title="Temporada 2",1
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXgKHp3xCp4jVq2LdSRi7DL#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef8TQgirVGSd31ZojSKWJiWu1BR.jpg" group-title="Temporada 2",2
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXmSVfec3w24ZzMAkH76ee-#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cl3OfgJPxqLklQ3RwHnxXGWXcfx.jpg" group-title="Temporada 2",3
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPVvav0fCa1jZexOPx0Jqlng#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6MenwpFrov5Fb8XOpOFcobFICb.jpg" group-title="Temporada 2",4
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPU3Lr9JM6KB-XC4XqbjQTMX#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJ4VJOhSxoJyUk7Rx87VqbtDheh.jpg" group-title="Temporada 2",5
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXk8ryObUZQ2dAv79Q4tfS2#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vB7dF9FS1SrCMxq2KuaPAQtrsj.jpg" group-title="Temporada 2",6
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPWXUbASQ3oBUFlKJnkgSmcH#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orhooiL95Zrpw5JFCwyy3VrD89Z.jpg" group-title="Temporada 2",7
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXREfSy1cwIHm6QstEYTuxt#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6raxIWNW38ou9Z8uqAFbBWGmoPa.jpg" group-title="Temporada 2",8
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXx6wD0kFa36vRq9ed1h9C7#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2moJ6EDHPu7selgMFvs41w4YnC9.jpg" group-title="Temporada 2",9
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXcbQM6RvZi8oaQFk1ZeUmJ#.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjiQGDvYBwdAqQEvlB6yNqjvae0.jpg" group-title="Temporada 2",10
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPUtWTgH0ni9Fj8wCsPfsFD6#.mkv
+
