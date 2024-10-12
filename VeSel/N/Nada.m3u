@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/60382017b1803588f8b72d0bb404b5a0.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXJxvilTQ6r5teBFHBjSd0Q#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/151fc13b69687c22be9c09ca406c5ec4.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPV7Y9TFts6Cm2s5vPBoM-Rg#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/768c53968685564440683c5d1b461ba1.jpg" group-title="Temporada 1",3
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPUESw2X42bvY_VjV3B206pB#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/8b344ebb6e3565d18e438fc8e6bf544e.jpg" group-title="Temporada 1",4
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXoDdrWxhwjPuskZTbhEc90#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/4ecb1d9c60b05a0a4748dff96eebf906.jpg" group-title="Temporada 1",5
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPX-A30xVKm50RvCNYI3m6R1#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/60382017b1803588f8b72d0bb404b5a0.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPU4gPtjrbJ5GXLBXijVrJCx#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/151fc13b69687c22be9c09ca406c5ec4.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPWH7olSl0piwXPpixmMpTBR#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/768c53968685564440683c5d1b461ba1.jpg" group-title="Temporada 1",3
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXQ30ZyYaMTGYRi7kKxiFA2#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/8b344ebb6e3565d18e438fc8e6bf544e.jpg" group-title="Temporada 1",4
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPVNyyhiTJ5CSCPG5VqHfgGu#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/4ecb1d9c60b05a0a4748dff96eebf906.jpg" group-title="Temporada 1",5
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPV3HV7UgYUkp_tyJRngJ1mP#.mkv
+
