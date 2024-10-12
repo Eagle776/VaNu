@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1  group-title="Temporada 1",1
+http://nxt.plus:8080/series/karinajp/331042/130814.mkv
+#EXTINF:-1  group-title="Temporada 1",2
+http://nxt.plus:8080/series/karinajp/331042/130815.mkv
+#EXTINF:-1  group-title="Temporada 1",3
+http://nxt.plus:8080/series/karinajp/331042/130816.mkv
+#EXTINF:-1  group-title="Temporada 1",4
+http://nxt.plus:8080/series/karinajp/331042/130817.mkv
+#EXTINF:-1  group-title="Temporada 1",5
+http://nxt.plus:8080/series/karinajp/331042/130818.mkv
+#EXTINF:-1  group-title="Temporada 1",6
+http://nxt.plus:8080/series/karinajp/331042/130819.mkv
+#EXTINF:-1  group-title="Temporada 2",1
+http://nxt.plus:8080/series/karinajp/331042/130820.mkv
+#EXTINF:-1  group-title="Temporada 2",2
+http://nxt.plus:8080/series/karinajp/331042/130821.mkv
+#EXTINF:-1  group-title="Temporada 2",3
+http://nxt.plus:8080/series/karinajp/331042/130822.mkv
+#EXTINF:-1  group-title="Temporada 2",4
+http://nxt.plus:8080/series/karinajp/331042/130823.mkv
+#EXTINF:-1  group-title="Temporada 2",5
+http://nxt.plus:8080/series/karinajp/331042/130824.mkv
+#EXTINF:-1  group-title="Temporada 2",6
+http://nxt.plus:8080/series/karinajp/331042/130825.mkv
+#EXTINF:-1  group-title="Temporada 3",1
+http://nxt.plus:8080/series/karinajp/331042/130826.mkv
+#EXTINF:-1  group-title="Temporada 3",2
+http://nxt.plus:8080/series/karinajp/331042/130827.mkv
+#EXTINF:-1  group-title="Temporada 3",3
+http://nxt.plus:8080/series/karinajp/331042/130828.mkv
+#EXTINF:-1  group-title="Temporada 3",4
+http://nxt.plus:8080/series/karinajp/331042/130829.mkv
+#EXTINF:-1  group-title="Temporada 3",5
+http://nxt.plus:8080/series/karinajp/331042/130830.mkv
+#EXTINF:-1  group-title="Temporada 3",6
+http://nxt.plus:8080/series/karinajp/331042/130831.mkv
