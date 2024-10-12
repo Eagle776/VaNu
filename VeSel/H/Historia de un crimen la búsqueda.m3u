@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/trioRBlJjIcxhmF0qgU7mF2KRBa.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPWWVNFQOWHVpQANueU02jWo#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/e0NeaiUtIaEYD9XqVGI9jRCpSs7.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXMjT0JiSQB2H1u506zGf9p#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vWlh4kb3nQNI0C53jUgySeCSrx.jpg" group-title="Temporada 1",3
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPVnsVhxgIU8ggKchRqdDNhy#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/82GQ6naXStMtJoIgaDRkjIs4RBg.jpg" group-title="Temporada 1",4
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPUZKS3Bp6LqTfA5HscF_X5o#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jd4ULS0Ifu6hVPgNXC08gDlG9yA.jpg" group-title="Temporada 1",5
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPU0ntaV83MwkcKg0mHgq0ku#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jSUC8mG1AJjeYLSmMLvPxgu703i.jpg" group-title="Temporada 1",6
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPV9HGv8_8LhwSXoCJ0TL2hy#.mp4
+
