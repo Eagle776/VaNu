@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/5f985bc8b848ce086c83b401f4378f9f.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXouei53lVB4b05pV0LBMEG#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/5f985bc8b848ce086c83b401f4378f9f.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPW6u8DgzRnUVlvZOp__tWtP#.mkv
+
+#EXTINF:-1 tvg-logo="http://offshore.lat:25461/images/5f985bc8b848ce086c83b401f4378f9f.jpg" group-title="Temporada 1",3
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPVF3D-Cywwzlo3VpslvRW_D#.mkv
+
