@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hXmDtA2sq1s0KJ4HP1AAwZUlzAW.jpg" group-title="Temporada 1",1
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPVNWW1scDoIo3gyzpSwOwoS#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hXmDtA2sq1s0KJ4HP1AAwZUlzAW.jpg" group-title="Temporada 1",2
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPXX8J2xvG1nbaxXI1SMdl8z#.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/hXmDtA2sq1s0KJ4HP1AAwZUlzAW.jpg" group-title="Temporada 1",3
+http://offshore.lat:8080/play/2bn0MMBXMYECbWDoNDa-1GcEo-xefHjsD4aRrR4NyPUoeIF_yGGN--Xye0ATT4ge#.mp4
+
