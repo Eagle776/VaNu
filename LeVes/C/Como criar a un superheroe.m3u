@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eeV9HPK0zx3SgQ24iXBamENFhm.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236361.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sN0hJk2b4LzmCseGZ5jW3GmJ1Vd.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236362.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2Q359GwJh4wpkgpQRYZo5QPkAj.jpg" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236363.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVmJpWIuhVs0trO7cBZNTeyVxjp.jpg" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236364.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yprIKT8NahKtQ8AVtTXicAAH6Kf.jpg" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236365.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icX9QGP3BNxfG2511phsHxUe8cx.jpg" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236366.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLtVLJTGpSnojN4hFm4W9PDg4Gh.jpg" group-title="Temporada 1",7
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236367.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrLJNYAODgstRimrFYEgmyk8yjr.jpg" group-title="Temporada 1",8
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236368.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wworVlDoBzAjZ8i83ZWUG4LJIK.jpg" group-title="Temporada 1",9
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236369.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo1yulKm1pDvL6NBA4PdVe8lYVc.jpg" group-title="Temporada 2",1
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236370.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo1yulKm1pDvL6NBA4PdVe8lYVc.jpg" group-title="Temporada 2",2
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236371.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo1yulKm1pDvL6NBA4PdVe8lYVc.jpg" group-title="Temporada 2",3
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236372.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo1yulKm1pDvL6NBA4PdVe8lYVc.jpg" group-title="Temporada 2",4
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236373.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo1yulKm1pDvL6NBA4PdVe8lYVc.jpg" group-title="Temporada 2",5
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236374.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo1yulKm1pDvL6NBA4PdVe8lYVc.jpg" group-title="Temporada 2",6
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236375.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo1yulKm1pDvL6NBA4PdVe8lYVc.jpg" group-title="Temporada 2",7
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236376.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo1yulKm1pDvL6NBA4PdVe8lYVc.jpg" group-title="Temporada 2",8
+http://home-playtv.com:8080/series/Rmora01/PJNCN/236377.mkv
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/f680a2dc85ff96852df7987c0498d673.jpg" group-title="Temporada 1",1
+http://home-playtv.com:8080/series/Rmora01/PJNCN/102912.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/ee6aff7c23c57d6284320f09b29e0605.jpg" group-title="Temporada 1",2
+http://home-playtv.com:8080/series/Rmora01/PJNCN/102913.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/615e06c306fb20174a005f6781faa798.jpg" group-title="Temporada 1",3
+http://home-playtv.com:8080/series/Rmora01/PJNCN/102914.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/c724eaa07cada5a7d75de2a1e7830bc8.jpg" group-title="Temporada 1",4
+http://home-playtv.com:8080/series/Rmora01/PJNCN/102915.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/ff69030a2d0e0ebfda591b8fb5556dfe.jpg" group-title="Temporada 1",5
+http://home-playtv.com:8080/series/Rmora01/PJNCN/102916.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/13f9928c2cd801eb3319f36e74e4b22d.jpg" group-title="Temporada 1",6
+http://home-playtv.com:8080/series/Rmora01/PJNCN/102917.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/b265cbe5a8f1b1b97fb4c9aa428c5801.jpg" group-title="Temporada 1",7
+http://home-playtv.com:8080/series/Rmora01/PJNCN/102918.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/4a7ed236eee894ca1bcdd21cfd6eb90c.jpg" group-title="Temporada 1",8
+http://home-playtv.com:8080/series/Rmora01/PJNCN/102919.mp4
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/0ef6e6e4be330fbc70ecea489f4c32cb.jpg" group-title="Temporada 1",9
+http://home-playtv.com:8080/series/Rmora01/PJNCN/102920.mp4
+
